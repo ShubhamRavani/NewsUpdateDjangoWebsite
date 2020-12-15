@@ -1,4 +1,4 @@
-# NewsUpdateDjangoWebsite
+# NewsUpdateWebsite
 
 NewsUpdate is a web-application, which provide live articles from all over the web. 
 This website uses web News API provided by newsapi.org, it is a simple HTTP REST API.
