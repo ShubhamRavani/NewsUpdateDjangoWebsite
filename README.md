@@ -6,22 +6,22 @@ It is developed using HTML5, CSS3, JS, and Python/Django technologies in PyCharm
 
 <h2>SnapShot</h2>
 
-<h4>HomePage</h4>
+<h3>HomePage</h3>
 <img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/1Home1.png"></img>
 <img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/1Home2.png"></img>
 <img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/1Home3.png"></img>
-<h4>TechnologyPage</h4>
+<h3>TechnologyPage</h3>
 <img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/2Technology.png"></img>
-<h4>SportsPage</h4>
+<h3>SportsPage</h3>
 <img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/3Sports.png"></img>
-<h4>BusinessPage</h4>
+<h3>BusinessPage</h3>
 <img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/4Business.png"></img>
-<h4>EntertainmentPage</h4>
+<h3>EntertainmentPage</h3>
 <img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/5Entertainment.png"></img>
-<h4>HealthPage</h4>
+<h3>HealthPage</h3>
 <img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/6Health.png"></img>
-<h4>SciencePage</h4>
+<h3>SciencePage</h3>
 <img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/7Science.png"></img>
-<h4>ContactUsPage</h4>
+<h3>ContactUsPage</h3>
 <img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/8ContactUs.png"></img>
 <img src="https://github.com/ShubhamRavani/NewsUpdateWebsite/blob/master/Images/8ContactUs2.png"></img>
